@@ -23,4 +23,4 @@
 
 ### GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaswant04&show_icons=true&hide=prs&theme=dark)](https://github.com/jaswant04)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaswant04&show_icons=true&hide=prs&theme=dark&count_private=true)](https://github.com/jaswant04)
