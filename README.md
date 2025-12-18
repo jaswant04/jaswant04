@@ -22,4 +22,4 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="28"/>](mailto:yadavjas01@gmail.com)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaswant04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaswant04&show_icons=true&theme=dark&count_private=true)](https://github.com/jaswant04)
