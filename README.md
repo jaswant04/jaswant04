@@ -20,6 +20,3 @@
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>](https://www.linkedin.com/in/jaswant-yadav04/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="28"/>](mailto:yadavjas01@gmail.com)
-
-# 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaswant04&show_icons=true&theme=dark&count_private=true)](https://github.com/jaswant04)
